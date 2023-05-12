@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustForCodin
 - 👀 I’m interested in Software Development and AI
-- 🌱 I’m currently learning Objective-C
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me? 
 - My e-mail: musicjohnliofficial@gmail.com
 
