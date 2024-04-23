@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JustForCodin
+# 👋 Hi, I’m @JustForCodin
 - 👀 I’m interested in Software Development and AI
 - 🌱 I’m currently learning Swift, Objective-C, UIKit and SwiftUI
-- 📫 How to reach me? 
+## 📫 How to reach me? 
 - My e-mail: musicjohnliofficial@gmail.com or odrozd.iosdev@gmail.com
 
 <!---
