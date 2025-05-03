@@ -4,7 +4,8 @@
 - 🧠 I also love chess and neuroscience
 
 ## 📫 How to reach me? 
-- My e-mail: musicjohnliofficial@gmail.com or odrozd.iosdev@gmail.com
+- My e-mail: odrozd.iosdev@gmail.com
+- My LinkedIn: https://www.linkedin.com/in/oleksii-drozd-0a1950362/
 
 <!---
 JustForCodin/JustForCodin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
