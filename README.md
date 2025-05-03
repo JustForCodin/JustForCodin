@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @JustForCodin
-- 👀 I’m interested in Software Development and AI
-- 🌱 I’m currently learning Swift, Objective-C, UIKit and SwiftUI
+- 🤖 I specialize in Software Development and AI
+- I'm currently learning all about LLMs and how to build them from scratch
+- 🧠 I also like to play chess and neuroscience
+
 ## 📫 How to reach me? 
 - My e-mail: musicjohnliofficial@gmail.com or odrozd.iosdev@gmail.com
 
