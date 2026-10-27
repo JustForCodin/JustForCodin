@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alex Mason
 - 🤖 I specialize in Software Development and AI
-- I'm currently working on my own system that would allow me to have interpretable, tracable AI running on my own devices.
+- 🧑‍💻 I'm currently working on my own system that would allow me to have interpretable, tracable AI running on my own devices.
 - 🧠 I also love chess and neuroscience
 
 
